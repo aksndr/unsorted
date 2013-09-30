@@ -1,4 +1,4 @@
-package ru.ibs.sad.methods;
+package ru.aksndr.methods;
 
 import com.crystaldecisions.report.web.viewer.CrystalReportViewer;
 import com.crystaldecisions.sdk.occa.report.application.ParameterFieldController;
